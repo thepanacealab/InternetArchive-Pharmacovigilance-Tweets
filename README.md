@@ -12,3 +12,4 @@ Use spacy_separate_onlyjson.py to filter drug tweets using the dictionary.
 Eg: python spacy_separate_onlyjson.py -i Oct -d drug_dict_singlestr.csv -o oct_singlestr_tweets.json
 
 
+Please use the TweetIds_IA_ramya.txt to access drug related Tweet Ids.
