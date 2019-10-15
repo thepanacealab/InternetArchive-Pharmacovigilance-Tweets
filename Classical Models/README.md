@@ -5,4 +5,6 @@ All the classical models use the scikit learn (https://scikit-learn.org/stable/s
 4) Decision Tree (DT)
 5) Naive Bayes (MNB)
 
+Usage - python classify_validate_svm.py
+
 Please contact Ramya Tekumalla - tramya457@gmail.com for any questions
