@@ -4,3 +4,5 @@ In order to run the following models, the following packages must be installed f
 3) Matchzoo - pip install Matchzoo or https://github.com/NTMC-Community/MatchZoo - We recommend to use the github version for matchzoo instead of the pip version
 
 Usage of the deep learning models - python ConvKNRM.py
+
+Please contact Ramya Tekumalla - tramya457@gmail.com for any questions.
