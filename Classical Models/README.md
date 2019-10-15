@@ -1,3 +1,4 @@
+# Classical Models
 All the classical models use the scikit learn (https://scikit-learn.org/stable/supervised_learning.html#supervised-learning) for supervised classification. The following 5 classical models are used.
 1) Logistic Regression (LR)
 2) Support Vector Mechanism (SVM)
