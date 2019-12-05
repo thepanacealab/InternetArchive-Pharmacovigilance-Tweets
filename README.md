@@ -1,6 +1,6 @@
 # InternetArchive-Pharmacovigilance-Tweets
 
-This repository contains the code and data from the following paper -  MMining Archive.org's Twitter Stream Grab for Pharmacovigilance Research Gold - https://www.biorxiv.org/content/10.1101/859611v1
+This repository contains the code and data from the following paper -  Mining Archive.org's Twitter Stream Grab for Pharmacovigilance Research Gold - https://www.biorxiv.org/content/10.1101/859611v1
 
 Please use the following instructions if you intend to reproduce the results. 
 
