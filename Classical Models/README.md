@@ -10,7 +10,7 @@ This is compatible with Python 3.7. Please install the following packages before
 1) Scikit- learn - pip install -U scikit-learn
 2) Pandas - pip install pandas
 
-You can obtain the Trainind dataset by downloading it from the papers listed under Classification Section in the paper - https://www.biorxiv.org/content/early/2019/12/03/859611.full.pdf
+You can obtain the dataset for training it by downloading it from the papers listed under Classification Section in the paper - https://www.biorxiv.org/content/early/2019/12/03/859611.full.pdf
 
 Usage - python classify_validate_svm.py
 
