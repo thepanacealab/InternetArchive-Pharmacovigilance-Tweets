@@ -24,4 +24,4 @@ Please follow the readme instructions on Classical and Deep Learning models for 
 # Dataset
 The 3,346,758 tweet ids dataset is currently available by email request. 
 
-Please contact Ramya Tekumalla - tramya457@gmail.com for any questions.
+Please contact Ramya Tekumalla - rtekumalla1@student.gsu.edu for any questions.
