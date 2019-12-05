@@ -7,6 +7,7 @@ All the classical models use the scikit learn (https://scikit-learn.org/stable/s
 5) Naive Bayes (MNB)
 
 Please use the train.csv and test.csv from the paper.
+
 Usage - python classify_validate_svm.py
 
 Please contact Ramya Tekumalla - tramya457@gmail.com for any questions
