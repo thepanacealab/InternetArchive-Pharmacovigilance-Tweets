@@ -6,7 +6,6 @@ This repository contains the code and data from the following paper -  Mining Ar
 Please use the following instructions if you intend to reproduce the results. If you are looking for the dataset, scroll all the way down!!
 
 1) The Internet Archive's files must be first downloaded from - https://archive.org/details/twitterstream.
-
 Example - wget https://archive.org/download/archiveteam-twitter-stream-2018-10/twitter-2018-10-01.tar. 
 
 2) Unzip the files using - sh separate.sh 
