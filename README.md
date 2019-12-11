@@ -22,7 +22,7 @@ Please follow the readme instructions on Classical and Deep Learning models for 
 
 
 # Dataset
-The 3,346,758 tweet ids dataset is currently available by email request. 
+The 3,346,758 tweet ids dataset is currently available at - https://doi.org/10.5281/zenodo.3571328
 
 # Contact Information
 
